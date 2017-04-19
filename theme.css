@@ -68,11 +68,13 @@ h4.find-friends-top-subheader, h4.find-friends-bottom-subheader { color: #fff; }
   border-right: 0;
 }
 .content-inner.no-stream-end, .find-friends-sources,
+li.stream-item.highlighted,
 .find-friends-top-subheader, .find-friends-bottom-subheader {
-  background-color: #282828;
+  background-color: #353535;
   border-radius: 0;
   border-bottom: 0;
 }
+.ActivityItem { border-bottom: 0; }
 .content-header .header-inner, .content-no-header .no-header-inner {
   background: #181818;
   border-radius: 0;
