@@ -359,6 +359,15 @@ div.ActivityItem-displayText.js-actionable-user {
   border-bottom: 0;
 }
 
+.ProfileClusterFollow {
+  background-color: #181818;
+  border-bottom: 0;
+}
+
+.Grid--withGutter>.Grid-cell { background: transparent; }
+
+.ProfileClusterFollow-title { color: #fff; }
+
 .FollowStatus {
   color: #fff;
   font-weight: bold;
