@@ -17,6 +17,8 @@ Do you need more help? Join my server! **https://discord.gg/J4mwTJR**
 - Enjoy the theme!
 >You can use any plugin that inserts CSS, just that I really like Sylebot
 
+**How do I get the code shown in the GIF?**<br>It's in [autotheme.css](autotheme.css)
+
 ( If you want the code, shown in the screenshot, check out **autotheme.css** )
 
 **I found a bug, what do I do?**<br>Make a **Pull Request / Issue**
