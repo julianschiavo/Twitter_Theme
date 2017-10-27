@@ -1,8 +1,15 @@
 # Twitter_Theme
+
+&nbsp;
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/RNws7dvyjuxA4no4Jb2eCo5X/justdotJS/Twitter_Theme'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/RNws7dvyjuxA4no4Jb2eCo5X/justdotJS/Twitter_Theme.svg' />
+</a>
+&nbsp;
+
 A theme that changes the standard Twitter CSS
 
 ## About theme
-***Twitter_Theme*** theme is made by **AlexFlipnote#0021**<br>
+***Twitter_Theme*** theme was originally made by **AlexFlipnote#0021**<br>
 The theme is made for people who love the dark mode on phone, but can't get it to Desktop version.
 
 Do you need more help? Join my server! **https://discord.gg/J4mwTJR**
